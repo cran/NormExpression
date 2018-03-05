@@ -1,0 +1,6 @@
+#  All functions exported other than those starting with "."
+exportPattern("^[^\\.]")
+
+importFrom("graphics", "axis", "par", "plot")
+importFrom("stats", "as.dendrogram", "as.dist", "cor", "hclust","median", "quantile", "sd")
+importFrom("utils", "write.table", "globalVariables")
