@@ -12,13 +12,13 @@ plotCVs(data, methods = c("None", "HG7", "ERCC", "TN", "TC", "CR", "NR",
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{methods}{
-%%     ~~Describe \code{methods} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{legend.position}{
-%%     ~~Describe \code{legend.position} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -57,7 +57,3 @@ function (data, methods = c("None", "HG7", "ERCC", "TN", "TC",
             "springgreen"))
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

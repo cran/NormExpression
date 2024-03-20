@@ -1,7 +1,7 @@
 Package: NormExpression
 Type: Package
 Title: Normalize Gene Expression Data using Evaluated Methods
-Version: 0.1.0
+Version: 0.1.1
 Author: Zhenfeng Wu , Shan Gao
 Maintainer: Shan Gao <gao_shan@mail.nankai.edu.cn>
 Description: It provides a framework and a fast and simple way for researchers to evaluate methods (particularly some data-driven methods or their own methods) and then select a best one for data normalization in the gene expression analysis, based on the consistency of metrics and the consistency of datasets.
@@ -10,7 +10,7 @@ License: Artistic-2.0
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: no
-Packaged: 2018-03-03 02:43:36 UTC; gaoshan
+Packaged: 2024-03-19 12:30:07 UTC; wuzf
 Depends: R (>= 2.10)
 Repository: CRAN
-Date/Publication: 2018-03-05 18:38:58 UTC
+Date/Publication: 2024-03-20 04:40:02 UTC

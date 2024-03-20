@@ -12,28 +12,28 @@ sumTrim, doWeighting, Acutoff)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{obs}{
-%%     ~~Describe \code{obs} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{ref}{
-%%     ~~Describe \code{ref} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{libsize.obs}{
-%%     ~~Describe \code{libsize.obs} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{libsize.ref}{
-%%     ~~Describe \code{libsize.ref} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{logratioTrim}{
-%%     ~~Describe \code{logratioTrim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{sumTrim}{
-%%     ~~Describe \code{sumTrim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{doWeighting}{
-%%     ~~Describe \code{doWeighting} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{Acutoff}{
-%%     ~~Describe \code{Acutoff} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -79,7 +79,3 @@ function (obs, ref, libsize.obs = NULL, libsize.ref = NULL, logratioTrim = 0.3,
     }
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

@@ -11,19 +11,19 @@ gatherCVs4Matrices(..., raw_matrix, nonzeroRatio , cvNorm , cvResolution = 0.005
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{\dots}{
-%%     ~~Describe \code{\dots} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{raw_matrix}{
-%%     ~~Describe \code{raw_matrix} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{nonzeroRatio}{
-%%     ~~Describe \code{nonzeroRatio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvNorm}{
-%%     ~~Describe \code{cvNorm} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvResolution}{
-%%     ~~Describe \code{cvResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -66,7 +66,3 @@ function (..., raw_matrix, nonzeroRatio = NULL, cvNorm = TRUE,
     return(cv_uniform_all)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

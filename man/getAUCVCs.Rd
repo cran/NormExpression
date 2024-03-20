@@ -11,16 +11,16 @@ getAUCVCs(..., nonzeroRatio = NULL, cvNorm = TRUE, cvResolution = 0.005)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{\dots}{
-%%     ~~Describe \code{\dots} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{nonzeroRatio}{
-%%     ~~Describe \code{nonzeroRatio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvNorm}{
-%%     ~~Describe \code{cvNorm} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvResolution}{
-%%     ~~Describe \code{cvResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -46,7 +46,3 @@ function (..., nonzeroRatio = NULL, cvNorm = TRUE, cvResolution = 0.005)
     return(sorted_AUCVCs)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

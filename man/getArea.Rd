@@ -11,10 +11,10 @@ getArea(x, y)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{x}{
-%%     ~~Describe \code{x} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{y}{
-%%     ~~Describe \code{y} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -44,7 +44,3 @@ function (x, y)
     return(0.5 * (p1 - p2))
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

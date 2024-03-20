@@ -11,13 +11,13 @@ change_colours(p, palette, type)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{p}{
-%%     ~~Describe \code{p} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{palette}{
-%%     ~~Describe \code{palette} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{type}{
-%%     ~~Describe \code{type} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -40,7 +40,3 @@ function (p, palette, type)
     p + discrete_scale(type, "foo", pal)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

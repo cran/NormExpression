@@ -11,13 +11,13 @@ getCor(data, method = c("spearman", "pearson", "kendall"), rounds = 1e+06)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{method}{
-%%     ~~Describe \code{method} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{rounds}{
-%%     ~~Describe \code{rounds} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -46,7 +46,3 @@ function (data, method = c("spearman", "pearson", "kendall"),
     return(sp_result)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

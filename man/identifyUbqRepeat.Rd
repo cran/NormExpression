@@ -11,16 +11,16 @@ identifyUbqRepeat(data, pre_ratioC = NULL, lower_trimC = NULL, upper_trimC = NUL
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratioC}{
-%%     ~~Describe \code{pre_ratioC} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{lower_trimC}{
-%%     ~~Describe \code{lower_trimC} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{upper_trimC}{
-%%     ~~Describe \code{upper_trimC} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -45,7 +45,3 @@ function (data, pre_ratioC = NULL, lower_trimC = NULL, upper_trimC = NULL)
     return(ubq_genes)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

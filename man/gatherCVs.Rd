@@ -12,49 +12,49 @@ DESeq,UQ,TMM,TU,GAPDH,cvNorm,cvResolution)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{nonzeroRatio}{
-%%     ~~Describe \code{nonzeroRatio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{HG7}{
-%%     ~~Describe \code{HG7} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{ERCC}{
-%%     ~~Describe \code{ERCC} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TN}{
-%%     ~~Describe \code{TN} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TC}{
-%%     ~~Describe \code{TC} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{CR}{
-%%     ~~Describe \code{CR} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{NR}{
-%%     ~~Describe \code{NR} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{DESeq}{
-%%     ~~Describe \code{DESeq} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{UQ}{
-%%     ~~Describe \code{UQ} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TMM}{
-%%     ~~Describe \code{TMM} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TU}{
-%%     ~~Describe \code{TU} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{GAPDH}{
-%%     ~~Describe \code{GAPDH} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvNorm}{
-%%     ~~Describe \code{cvNorm} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvResolution}{
-%%     ~~Describe \code{cvResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -105,7 +105,3 @@ function (data, nonzeroRatio = NULL, HG7 = NULL, ERCC = NULL,
     return(cv_uniform_all)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

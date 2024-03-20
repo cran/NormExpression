@@ -11,16 +11,16 @@ findGenes(g, qlower = NULL, qupper = NULL, pre_ratio = NULL)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{g}{
-%%     ~~Describe \code{g} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{qlower}{
-%%     ~~Describe \code{qlower} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{qupper}{
-%%     ~~Describe \code{qupper} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratio}{
-%%     ~~Describe \code{pre_ratio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -41,7 +41,3 @@ function (g, qlower = NULL, qupper = NULL, pre_ratio = NULL)
     }
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

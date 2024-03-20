@@ -12,25 +12,25 @@ pre_ratio = 0.5, lower_trim = 0.05, upper_trim = 0.65, rounds = 1e+06)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{\dots}{
-%%     ~~Describe \code{\dots} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{raw_matrix}{
-%%     ~~Describe \code{raw_matrix} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cor_method}{
-%%     ~~Describe \code{cor_method} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratio}{
-%%     ~~Describe \code{pre_ratio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{lower_trim}{
-%%     ~~Describe \code{lower_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{upper_trim}{
-%%     ~~Describe \code{upper_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{rounds}{
-%%     ~~Describe \code{rounds} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -61,7 +61,3 @@ function (..., raw_matrix, cor_method = c("spearman", "pearson",
     return(cor_value_method)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

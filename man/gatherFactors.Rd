@@ -15,40 +15,40 @@ lower_trim = 0.05, upper_trim = 0.65, min_ubq = 100)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{methods}{
-%%     ~~Describe \code{methods} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{HG7.size}{
-%%     ~~Describe \code{HG7.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{ERCC.size}{
-%%     ~~Describe \code{ERCC.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TN.size}{
-%%     ~~Describe \code{TN.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{TC.size}{
-%%     ~~Describe \code{TC.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{CR.size}{
-%%     ~~Describe \code{CR.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{NR.size}{
-%%     ~~Describe \code{NR.size} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratio}{
-%%     ~~Describe \code{pre_ratio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{lower_trim}{
-%%     ~~Describe \code{lower_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{upper_trim}{
-%%     ~~Describe \code{upper_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{min_ubq}{
-%%     ~~Describe \code{min_ubq} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -104,7 +104,3 @@ function (data, methods = c("HG7", "ERCC", "TN", "TC", "CR",
     return(factors.result)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

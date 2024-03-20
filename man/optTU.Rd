@@ -13,34 +13,34 @@ qResolution = 0.05, min_ubq = 100, cvNorm = TRUE, cvResolution = 0.005)
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{nonzeroRatio}{
-%%     ~~Describe \code{nonzeroRatio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratio_range}{
-%%     ~~Describe \code{pre_ratio_range} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{prResolution}{
-%%     ~~Describe \code{prResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{lower_range}{
-%%     ~~Describe \code{lower_range} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{upper_range}{
-%%     ~~Describe \code{upper_range} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{qResolution}{
-%%     ~~Describe \code{qResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{min_ubq}{
-%%     ~~Describe \code{min_ubq} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvNorm}{
-%%     ~~Describe \code{cvNorm} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{cvResolution}{
-%%     ~~Describe \code{cvResolution} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -88,7 +88,3 @@ function (data, nonzeroRatio = NULL, pre_ratio_range = c(0.2,
     return(all_aucvc2[max_index, ])
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

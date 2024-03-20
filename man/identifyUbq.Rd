@@ -11,19 +11,19 @@ identifyUbq(data, pre_ratio = 0.5, lower_trim = 0.05, upper_trim = 0.65, min_ubq
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{data}{
-%%     ~~Describe \code{data} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{pre_ratio}{
-%%     ~~Describe \code{pre_ratio} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{lower_trim}{
-%%     ~~Describe \code{lower_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{upper_trim}{
-%%     ~~Describe \code{upper_trim} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
   \item{min_ubq}{
-%%     ~~Describe \code{min_ubq} here~~
+    Please refer to the file /inst/doc/readme.pdf.
 }
 }
 
@@ -56,7 +56,3 @@ function (data, pre_ratio = 0.5, lower_trim = 0.05, upper_trim = 0.65,
     return(ubq_genes)
   }
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
